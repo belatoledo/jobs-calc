@@ -1,0 +1,27 @@
+{
+  "name": "jobs-calc",
+  "version": "1.0.0",
+  "description": "Freelance Calculator",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belatoledo/jobs-calc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belatoledo/jobs-calc/issues"
+  },
+  "homepage": "https://github.com/belatoledo/jobs-calc#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
